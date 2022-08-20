@@ -9,4 +9,4 @@ capacity:
 storage: 3Gi
 accessModes:
 - ReadWriteOnce
-storageClassName: local-path
+storageClassName: local-path 
